@@ -61,10 +61,4 @@ Contributions to Study Buddy are welcome! Please fork the repository, create a n
 ## 5. License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 6. Acknowledgements
-- Special thanks to the development team for their dedication and hard work.
-- Thanks to the open-source community for providing tools and resources that made this project possible.
 
----
-
-This README file should give potential collaborators and users a clear understanding of the Study Buddy app, its purpose, features, and how to get started with the project.
