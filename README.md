@@ -9,7 +9,7 @@
 The **Study Buddy** project focuses on developing an advanced mobile tool designed to revolutionize the educational landscape. With a primary emphasis on enhancing student collaboration and academic support, Study Buddy aims to provide a dynamic platform where students can connect, communicate, and collaborate effectively. The result is a comprehensive mobile application equipped with numerous features tailored to meet the diverse needs of today's students. These features include user registration and authentication, group creation, discussion systems, resource sharing, and flexible quiz creation. Study Buddy offers a holistic solution to facilitate a learning environment conducive to achieving academic goals.
 ### 1.1.1 Demo Screen
 ![Demo Screen](https://github.com/zainasif123/Study-Buddy-App-Flutter/blob/main/demo/1.png)
-![Demo Screen](https://github.com/zainasif123/Study-Buddy-App-Flutter/blob/main/demo/1.png)
+![Demo Screen](https://github.com/zainasif123/Study-Buddy-App-Flutter/blob/main/demo/2.png)
 
 ### 1.2 Key Features
 - **User Registration and Authentication**: Secure and seamless user onboarding.
